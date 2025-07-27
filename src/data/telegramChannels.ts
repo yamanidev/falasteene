@@ -58,15 +58,6 @@ export const telegramChannels: TelegramChannel[] = [
     channelLink: "https://t.me/ShehabTelegram2"
   },
   {
-    name: "محمود الشريف",
-    description: "",
-    logo: {
-      src: "/images/telegram-channels/elshareef-mahmoud.jpg",
-      alt: "elshareef mahmoud channel logo"
-    },
-    channelLink: "https://t.me/Elshareef_mahmoud"
-  },
-  {
     name: "مؤمن مقداد",
     description: "أتشرف بمتابعتكم جميعا",
     logo: {
