@@ -1,3 +1,9 @@
+## ⚠️ Archived Project
+
+This project is no longer actively maintained. The list of organizations below was curated at the time of the project's creation and **has not been reviewed or updated since**. Links may be broken, campaigns may have ended, and organizations may have changed in ways I am not aware of.
+
+---
+
 ## About
 
 A curated list of associations and campaigns that provide aid to Palestinian families and children.
